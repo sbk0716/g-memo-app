@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "todo"
+    },
+    {
+      "id": 2,
+      "name": "tips"
+    }
+  ],
+  "memo": [
+    {
+      "id": 1645252006840,
+      "title": "CRAをInstallする。",
+      "content": "[content]CRAをInstallする。",
+      "categoryId": 1,
+      "completed": true
+    },
+    {
+      "id": 1645252006841,
+      "title": "Frontendを実装する。",
+      "content": "[content]Frontendを実装する。",
+      "categoryId": 1,
+      "completed": false
+    },
+    {
+      "id": 1645252006842,
+      "title": "APIを実装する。",
+      "content": "[content]APIを実装する。",
+      "categoryId": 1,
+      "completed": true
+    },
+    {
+      "id": 1645252006843,
+      "title": "FrontendとAPIを連携する。",
+      "content": "[content]FrontendとAPIを連携する。",
+      "categoryId": 1,
+      "completed": true
+    }
+  ]
+}
